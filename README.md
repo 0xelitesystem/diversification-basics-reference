@@ -2,6 +2,8 @@
 
 A plain-language reference on diversification: spreading money across many investments so that no single one can sink the whole portfolio. It covers why diversification reduces risk, how correlation drives the benefit, spreading across asset classes, sectors, and geographies, the limits of over-diversification, and the idea that diversification is the closest thing investing has to a free lunch.
 
+For general information only. This is not investment, financial or tax advice. Check anything that affects your money with a qualified professional.
+
 ## The core idea
 
 Diversification means holding many different investments so the poor performance of any one matters less to the whole. It reduces risk because investments do not all move together, so losses in some holdings are offset by gains or stability in others. The benefit comes from combining assets whose returns are not perfectly correlated, which lowers the swings of the overall portfolio without necessarily lowering its expected return. That combination of lower risk at the same expected return is why it is often called the only free lunch in investing.
